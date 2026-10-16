@@ -29,8 +29,8 @@ I'm passionate about integrating **Human Resources, Odoo ERP, AI, and Business P
 To combine my HR expertise with Odoo ERP and AI Automation to develop smarter, more efficient business solutions.
 
 ## 📫 Connect With Me
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+- LinkedIn: [[(https://www.linkedin.com/in/ahmed-hamdy-ali-)]
+- Email: [Handozahmed@gmail.com]
 
 ---
 
